@@ -3,6 +3,7 @@
 
 I’m an MSc Information Systems student at the [UCD School of Information and Communication Studies](https://www.ucd.ie/ics/) and Head of Entrepreneurship for the [UCD Investors & Entrepreneurs Society](https://ie.linkedin.com/company/ucd-investors-and-entrepreneurs-society).<br><br>
 Currently @ [Grove](https://www.budgetwithgrove.com)<br> 
+Incoming Business Architecture Analyst @ [Accenture](https://www.accenture.com/ie-en)
 Previously Systems Testing Intern @ [LeanBPI](https://leanbpi.ie/)
 
 
