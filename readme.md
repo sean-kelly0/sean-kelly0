@@ -6,6 +6,8 @@ Currently building @ [Cobalt](https://getcobalt.ie)<br>
 Incoming Business Architecture Analyst @ [Accenture](https://www.accenture.com/ie-en)<br>
 Previously Systems Testing Intern @ [LeanBPI](https://leanbpi.ie/)
 
+(2025 - 2026) Master of Science, Information Systems - University College Dublin
+(2022 - 2025) Bachelor of Commerce - University of Galway 
 
 ## Languages and Tools
 
