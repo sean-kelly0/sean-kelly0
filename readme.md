@@ -1,8 +1,7 @@
 
 # Hi 👋
 
-I’m an MSc Information Systems student at the [UCD School of Information and Communication Studies](https://www.ucd.ie/ics/) and Head of Entrepreneurship for the [UCD Investors & Entrepreneurs Society](https://ie.linkedin.com/company/ucd-investors-and-entrepreneurs-society).<br><br>
-Business Architecture Analyst @ [Accenture](https://www.accenture.com/ie-en)<br>
+I’m a Business Architecture Analyst in [Accenture](https://www.accenture.com/).<br>
 Previously Systems Testing Intern @ [LeanBPI](https://leanbpi.ie/)
 
 (2025 - 2026) Master of Science, Information Systems - University College Dublin <br>
