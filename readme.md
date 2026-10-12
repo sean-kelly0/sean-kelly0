@@ -2,8 +2,7 @@
 # Hi 👋
 
 I’m an MSc Information Systems student at the [UCD School of Information and Communication Studies](https://www.ucd.ie/ics/) and Head of Entrepreneurship for the [UCD Investors & Entrepreneurs Society](https://ie.linkedin.com/company/ucd-investors-and-entrepreneurs-society).<br><br>
-Currently building @ [Cobalt](https://getcobalt.ie)<br>
-Incoming Business Architecture Analyst @ [Accenture](https://www.accenture.com/ie-en)<br>
+Business Architecture Analyst @ [Accenture](https://www.accenture.com/ie-en)<br>
 Previously Systems Testing Intern @ [LeanBPI](https://leanbpi.ie/)
 
 (2025 - 2026) Master of Science, Information Systems - University College Dublin <br>
@@ -26,16 +25,12 @@ Previously Systems Testing Intern @ [LeanBPI](https://leanbpi.ie/)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases & Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
